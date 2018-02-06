@@ -1,0 +1,9 @@
+{
+  "commitish" : "2.0.0",
+  "iOS" : [
+    {
+      "name" : "ListKit",
+      "hash" : "e3a9ba0382dce551163dae55779549567451a683fc5a3ec97aaab3cf82607266"
+    }
+  ]
+}

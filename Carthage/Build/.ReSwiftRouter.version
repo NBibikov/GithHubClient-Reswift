@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.6.0",
+  "iOS" : [
+    {
+      "name" : "ReSwiftRouter",
+      "hash" : "4045ecd0ea5fdaf90637f1efcf9f9053076379942b6ca09c023e01c3e47e5343"
+    }
+  ]
+}

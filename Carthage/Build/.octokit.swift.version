@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.7.4",
+  "iOS" : [
+    {
+      "name" : "OctoKit",
+      "hash" : "acc78fbcbceb2e837a301aa5eed08d641909b24b9aa2709f4ba8411ff3ff7921"
+    }
+  ]
+}

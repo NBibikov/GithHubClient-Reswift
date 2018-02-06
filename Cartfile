@@ -1,0 +1,9 @@
+github "ReSwift/ReSwift"
+github "ReSwift/ReSwiftRouter"
+
+
+github "nerdishbynature/octokit.swift" ~> 0.7.0
+github "Quick/Quick"
+github "Quick/Nimble"
+github "soffes/SSKeychain"
+github "Ben-G/ListKit"

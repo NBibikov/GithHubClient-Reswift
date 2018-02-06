@@ -1,0 +1,9 @@
+{
+  "commitish" : "v1.5.3",
+  "iOS" : [
+    {
+      "name" : "SAMKeychain",
+      "hash" : "aeba9a9a024b9e6e1071f6bb6e3aa84d5d9383dc0ba699bce9e3cf8dd00d32f6"
+    }
+  ]
+}
